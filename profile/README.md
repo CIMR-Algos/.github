@@ -13,7 +13,7 @@ The CIMR DEVALGO study was a 2-year ESA-funded study (2022-2024) funded to devel
 
 The Level-2 ATBDs developed by the CIMR DEVALGO study, sorted by Level-2 Product families, are:
 * Polar Regions and Adjacent Seas:
-   * [Level-2 Sea Ice Concentration, Sea Ice Edge, and SIC in NRT1H v2](https://cimr-algos.github.io/SeaIceConcentration_ATBD_v2/intro.html) 
+   * [Level-2 Sea Ice Concentration, Sea Ice Edge, and SIC in NRT1H v2](https://cimr-algos.github.io/SeaIceConcentration_ATBD_v2/book/intro.html) 
    * [Level-2 Sea Ice Drift v1](https://cimr-algos.github.io/SeaIceDrift_ATBD/intro.html)
    * [Level-2 Sea Ice Thickness v1](https://cimr-algos.github.io/SeaIceThickness_ATBD/intro.html)
    * [Level-2 Sea Surface Temperature v1](https://cimr-algos.github.io/SeaSurfaceTemperature_ATBD/intro.html) 
