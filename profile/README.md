@@ -20,7 +20,7 @@ The Level-2 ATBDs developed by the CIMR DEVALGO study, sorted by Level-2 Product
    * [Level-2 Sea Surface Salinity v2](https://cloud.ifremer.fr/index.php/s/35SmeaCYxPyrf2A)
    * [Level-2 Ocean Wind Vectors v2](https://cloud.ifremer.fr/index.php/s/YwT3rlxGxLaC39a)
 * Global Land:
-   * [Level-2 Terrestrial Snow Area v2](https://cimr-algos.github.io/TerrestrialSnowArea_ATBD_v2/intro.html)
+   * [Level-2 Terrestrial Snow Area v2](https://cimr-algos.github.io/TerrestrialSnowArea_ATBD_v2/book/intro.html)
    * [Level-2 Soil Moisture v2](https://cimr-algos.github.io/SoilMoisture_ATBD_v2/intro.html)
      
 
